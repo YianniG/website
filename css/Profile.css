@@ -1,0 +1,84 @@
+.name {
+  font-size: xx-large;
+  font-family: inherit;
+  text-align: center;
+}
+
+.details {
+  text-align: -webkit-left;
+  min-width: 500px;
+}
+
+.face-pic {
+  height: 25em;
+  position: relative;
+}
+
+.email-floaty {
+  position: relative;
+  top: -150px;
+  left: -30px;
+  font-size: x-large !important;
+}
+
+.linkedin-floaty {
+  position: relative;
+  top: -280px;
+  left: 370px;
+  font-size: x-large !important;
+}
+
+.github-floaty {
+  position: relative;
+  top: -215px;
+  left: 250px;
+  font-size: x-large !important;
+}
+
+.projects-floaty {
+  position: relative;
+  top: -150px;
+  left: 130px;
+  font-size: x-large !important;
+}
+
+.uni-floaty {
+  position: relative;
+  top: -85px;
+  left: -20px;
+  font-size: x-large !important;
+}
+
+.aboutme-floaty {
+  position: relative;
+  top: -50px;
+  left: 310px;
+  font-size: x-large !important;
+}
+
+.vertical-align {
+  min-height: 350px;
+  display: flex;
+  align-items: center;
+}
+
+.dynamic-text-field {
+   text-align: center;
+   font-size: x-large;
+}
+
+.summary-text {
+  font-size: smaller;
+}
+
+p {
+  font-family: monospace;
+}
+
+h2 {
+  font-family: monospace !important;
+}
+
+body {
+  background-color: rgb(104,199,202);
+}
